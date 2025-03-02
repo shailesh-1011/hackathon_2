@@ -4,7 +4,6 @@
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)  
 ![scikit-learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
-![SHAP Logo](https://raw.githubusercontent.com/slundberg/shap/master/docs/source/_static/logo_shap.png)
 
 This project aims to develop a high-performance machine learning model to predict airline profitability (in USD) based on a variety of operational and financial factors. The model is designed to provide accurate predictions while also offering interpretability, which helps airline operators understand the key drivers of profitability and optimize their decision-making processes.
 
